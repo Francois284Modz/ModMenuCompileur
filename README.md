@@ -2,7 +2,7 @@
 this tool what it does it compile the mod menu jin part 
 
 
-##Why i made this tool ?
+## Why i made this tool ?
 
 i was bord and android studio was bitching and did ain't want to compile 
 
@@ -14,6 +14,7 @@ it compile the jin part and give you the libs sout for people that android studi
 2) a brain 
 3) your menu source becuse you will only get the libs 
 
+False Positives dont believe me? run in sandboxie or vm!
 ## Credit
 
 Francois284Modz : creator of the tool 
