@@ -1,0 +1,9 @@
+v1.2
+- fixed compileur erreur when you could'not compile more then 2 time without restarting the exe
+- changed Compile lib folder to Libs
+- fixed file moving erreur 
+- created this changelog 
+
+v1.1
+- first realse to public 
+- many know bugs was found but still was not fix
